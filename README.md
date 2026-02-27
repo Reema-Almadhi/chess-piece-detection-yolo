@@ -4,10 +4,12 @@ A comparison of the performance of YOLOv11 and YOLOv12 on a custom chess piece d
 
 Sample detection images:
 YOLOv11:
-- ![f1a24b6bb778ee11ba33687415aa84f2_jpg rf f2646d2d46b39f6510975f24d554bae1](https://github.com/user-attachments/assets/6b47602c-f98c-4159-afbb-26172484cd79)
+
+ ![f1a24b6bb778ee11ba33687415aa84f2_jpg rf f2646d2d46b39f6510975f24d554bae1](https://github.com/user-attachments/assets/6b47602c-f98c-4159-afbb-26172484cd79)
 
 YOLOv12:
-- ![b9402881fa580d0eb8b9b98845417550_jpg rf 7c401587706c0c03dab27877a8d22f55](https://github.com/user-attachments/assets/7ff3e053-4a79-42dd-ad9f-b3d63e3a4f45)
+
+ ![b9402881fa580d0eb8b9b98845417550_jpg rf 7c401587706c0c03dab27877a8d22f55](https://github.com/user-attachments/assets/7ff3e053-4a79-42dd-ad9f-b3d63e3a4f45)
 
 Dataset details:
 - 693 images.
