@@ -1,6 +1,6 @@
 # YOLOv11 vs YOLOv12 for Chess Piece Detection
 
-A comparison of the performance of YOLOv11 and YOLOv12 on a custom chess piece detection dataset, evaluated using accuracy, speed, and generalization across 12 chess piece classes.
+A comparison of the performance of YOLOv11 and YOLOv12 on a custom chess piece detection dataset, evaluated using precision, recall, mAP, and inference speed across 12 chess piece classes."
 
 ## Sample detection images
 
@@ -36,5 +36,5 @@ A comparison of the performance of YOLOv11 and YOLOv12 on a custom chess piece d
 ## Comparison Summary
 
 Both models achieved over **98% mAP@0.5**.  
-- **YOLOv11** showed a **27% speed advantage** with faster inference.  
-- **YOLOv12** demonstrated **better generalization** in more complex scenarios.
+- YOLOv11 showed a 27% speed advantage with faster inference.  
+- YOLOv12 achieved slightly higher mAP@0.50:0.95, suggesting marginally better localization precision.
