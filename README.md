@@ -1,7 +1,6 @@
 # YOLO11 vs YOLO12 for Chess Piece Detection
 
-Description:
-a comparison of two chess piece detection models using YOLO11 and YOLO12 models.
+Two chess piece detection models using YOLO11 and YOLO12 models and a comparison of each model.
 
 Dataset:
 -693 images.
