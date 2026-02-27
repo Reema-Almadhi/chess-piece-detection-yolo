@@ -3,6 +3,7 @@
 A comparison of the performance of YOLOv11 and YOLOv12 on a custom chess piece detection dataset, evaluated using accuracy, speed, and generalization across 12 chess piece classes.
 
 Sample detection images:
+
 YOLOv11:
 
  ![f1a24b6bb778ee11ba33687415aa84f2_jpg rf f2646d2d46b39f6510975f24d554bae1](https://github.com/user-attachments/assets/6b47602c-f98c-4159-afbb-26172484cd79)
@@ -26,15 +27,16 @@ Training Settings:
 - Learning rate: 0.0002
 
 Results:
-- YOLOv11:
+
+YOLOv11:
 - box precision: 96.9%
 - recall: 99%
 - mAP@0.5: 98.9%
 - mAP@0.50:0.95: 80.5%
 - Inference FPS: 84.90
 - Inference Time/Image: 9.4 ms
-  
-- YOLOv12:
+
+YOLOv12:
 - box precision: 97%
 - recall: 97.9%
 - mAP@0.5: 98.7%
@@ -43,6 +45,6 @@ Results:
 - Inference Time/Image: 12.7 ms
 
 Results summary:
-Both models achieved over 98% accuracy in mAP@0.5.
-YOLOv11 displayed a 27% speed advantage with faster inference time.
+
+Both models achieved over 98% accuracy in mAP@0.5, YOLOv11 displayed a 27% speed advantage with faster inference time while
 YOLOv12 demonstrated better generalization in complex scenarios.
